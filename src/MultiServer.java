@@ -1,11 +1,3 @@
-// Name - Tejaswi Singh , Student Id - 1001387430 
-
-// References-
-// https://www.journaldev.com/861/java-copy-file
-// https://www.javatpoint.com/java-jtextarea
-// https://stackoverflow.com/questions/24104313/how-to-delay-in-java 
-// https://github.com/akshaywaikar30/DistributedSystems-Lab2/tree/master/src 
-
 import java.io.BufferedWriter;
 import java.io.DataInputStream; // All the header files 
 import java.io.DataOutputStream;
